@@ -3,9 +3,15 @@ colours = [
     "#f06292",
     "#9575cd",
     "#7986cb",
-    "#64b5f6"
+    "#64b5f6",
+    "#dce775",
+    "#aed581",
+    "#81c784",
+    "#4db6ac",
+    "#4dd0e1",
+    "#4fc3f7"
 ]
-
+hello = "a"
 [icons]
 folder = 0xf024b
 folder_open = 0xf0770

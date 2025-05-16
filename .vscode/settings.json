@@ -1,0 +1,6 @@
+{
+    "evenBetterToml.schema.associations": {
+        "theme.toml": "C:\\Users\\natha\\Documents\\folder-tree\\theme.schema.json",
+        "testtheme.toml": "./theme.schema.json"
+    }
+}
