@@ -1,0 +1,23 @@
+colours = [
+    "#e57373",
+    "#f06292",
+    "#9575cd",
+    "#7986cb",
+    "#64b5f6"
+]
+
+[icons]
+folder = 0xf024b
+folder_open = 0xf0770
+file = 0xf0214
+file_text = 0xf0219
+file_code = 0xf022e
+file_image = 0xf021f
+file_music = 0xf0223
+file_video = 0xf022b
+[icon_extensions]
+file_text = [".txt"]
+file_code = [".py", ".java", ".cpp"]
+file_image = [".png", ".jpg", ".gif", ".webp"]
+file_music = [".wav", ".mp3", ".ogg"]
+file_video = [".mp4"]
