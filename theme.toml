@@ -11,7 +11,6 @@ colours = [
     "#4dd0e1",
     "#4fc3f7"
 ]
-hello = "a"
 [icons]
 folder = 0xf024b
 folder_open = 0xf0770
